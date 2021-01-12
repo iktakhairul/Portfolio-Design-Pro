@@ -1,0 +1,251 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    width: 1080px;
+    font-family: sans-serif;
+    position: relative;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    margin-right: 100px;
+    margin-top: 20px;
+  }
+
+  li {
+    float: right;
+  }
+
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: #111;
+  }
+  .mainRunner {
+
+    border: 1px solid #000;
+    position: relative;
+  }
+
+  .img1 {
+
+    border: 1px solid #f00;
+    position: relative;
+    z-index: 2;
+    height: 400px;
+  }
+
+  .img2 {
+
+    border: 1px solid #0f0;
+    position: relative;
+    z-index: 1;
+    top: -12px;
+    left: 12px;
+    height: 400px;
+  }
+
+  #profile{
+
+      margin-left: 100px;
+  }
+
+  .images{
+
+      height: 400px;
+      margin-top: 50px;
+      
+  }
+
+  .button {
+
+    background-color: Tomato;
+    float: left;
+    border: none;
+    color: white;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .about{
+
+      margin-left: 100px;
+      float: left;
+
+  }
+  #MyProfile {
+
+      float: left;
+      margin-top: 80px;
+      width: 250px;
+      margin-right: 100px;
+  }
+
+  #MyProfilePic {
+
+      float: left;
+      margin-left: 80px;
+  }
+
+  #MyProfilePic1 {
+
+      float: left;
+      margin-top: 50px;
+  }
+  #first-pera{
+
+      font-size: 12px;
+      padding-left: 5px;
+      padding-bottom: 10px;
+  }
+
+  .about{
+
+      margin-left: 100px;
+      clear: both;
+      margin-bottom: 50px;
+
+  }
+  #aboutMine{
+
+      float: right;
+      margin-top: 130px;
+      width: 300px;
+      margin-left: 140px;
+  }
+
+  .container3{
+
+      height: 480px;
+      clear: both;
+      background-color: #f0f0f0;
+      text-align: center;
+      text-align: center;
+      padding: 80px;
+  }
+  .spantext{
+
+      color: Tomato;
+  }
+  #textcontainer{
+
+      margin-bottom: 70px;
+  }
+
+  .img-cintainer{
+
+      width: 250px;
+      float: left;
+      height: 260px;
+      border-radius: 10px;
+      padding: 5px;
+      background-color: white;
+      margin-left: 20px;
+      box-shadow: 10px 10px 8px #aaaaaa;
+
+  }
+
+  .images-con{
+
+      width: 240px;
+  }
+
+  .pc3 {
+
+      font-size: 12px;
+      text-align: left;
+      margin-left: 10px;
+  }
+
+  #fotter{
+
+      height: 320px;
+      clear: both;
+      background-color: #ffffff;
+      text-align: center;
+      text-align: center;
+      padding: 80px;
+  }
+  #img-fotter{
+
+      height: 170px;
+      margin-bottom: 50px;
+  }
+  #fotter-a{
+
+      font-size: 25px;
+      margin-top: 10px;
+      text-decoration: none;
+      color: black;
+      font-weight: bold;
+
+  }
+  .fotter-img{
+
+      height: 35px;
+      margin-top: 15px;
+  }
+
+  .fotter-nav-container {
+
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered-nav-container {
+
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+  }
+  .centered-nav-container1 {
+
+    position: absolute;
+    top: 35%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+  }
+  #fotter-nav-text{
+
+      padding-left: 10px;
+      font-size: 32px;
+      font-weight: bold;
+
+  }
+  #fotter-button {
+
+    background-color: Tomato;
+    float: left;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  #h1-name{
+
+      font-size: 45px;
+  }
